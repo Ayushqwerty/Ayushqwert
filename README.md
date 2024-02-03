@@ -23,3 +23,9 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-f1c40f?style=flat-square&logo=Python" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-2c3e50?style=flat-square&logo=C&logoColor=white" />
 </div>
+### My stats ⭐
+
+<div align="center">
+<img alt="Ayush's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Ayushqwerty&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushqwerty&layout=compact&&langs_count=8"/>
+</div>
