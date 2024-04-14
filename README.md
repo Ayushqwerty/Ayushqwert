@@ -10,7 +10,7 @@
         <img src="https://img.shields.io/badge/contributors-1-orange.svg?style=flat-square" alt="Build Status" />
     </a>
 </div> 
-<p align="center"> 🌱 I’m currently learning Ether.js, Web3.js and Solidity </p>
+<p align="center"> 🌱 I’m currently learning Rust and Solidity </p>
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
