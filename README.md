@@ -26,6 +26,5 @@
 ### My stats ⭐
 
 <div align="center">
-    [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ayushqwerty)](https://github.com/Ayushqwerty/github-readme-stats)
 <img alt="Ayush's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Ayushqwerty&show_icons=true&theme=transparent"/>
 </div>
